@@ -1,14 +1,6 @@
 # ai-communication-automation-system
 AI-powered n8n workflow using webhook, Google Gemini, and conditional routing for Gmail and WhatsApp communication automation.
 
-
-# AI Communication Automation System
-
-## 📌 Overview
-This project is an AI-powered automation workflow built using n8n that enables intelligent communication routing via Gmail and WhatsApp.
-
----
-
 ## ⚙️ Architecture
 
 Webhook Trigger → Basic LLM Chain → Google Gemini Chat Model → IF Node → Gmail / WhatsApp (HTTP Request)
