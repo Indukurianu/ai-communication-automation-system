@@ -25,6 +25,16 @@ Webhook Trigger → Basic LLM Chain → Google Gemini Chat Model → IF Node →
 
 ---
 
+Outputs
+
+All outputs are stored in the `outputs` folder.
+
+### Gmail Output
+![Gmail](outputs/gmail.png)
+
+### WhatsApp Output
+![WhatsApp](outputs/whatsapp.png)
+
 ## 🔗 Webhook Example
 
 POST `/webhook/ai-communication`
@@ -36,10 +46,4 @@ POST `/webhook/ai-communication`
 }
 
 
-## 📸 Outputs
 
-All workflow execution outputs are stored in the `outputs` folder.
-
-- Workflow execution diagram
-- Gmail output message
-- WhatsApp output message
