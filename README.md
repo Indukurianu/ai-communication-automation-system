@@ -35,18 +35,11 @@ POST `/webhook/ai-communication`
   "channel": "gmail"
 }
 
-## Tech Stack
-- n8n
-- Google Gemini Chat Model
-- Webhook API
-- Gmail API
-- WhatsApp HTTP Request
 
-#### Features
-- AI-generated structured responses
-- Webhook-based trigger system
-- Conditional routing logic
-- Multi-channel communication (Email + WhatsApp)
+## 📸 Outputs
 
-## Author
-Indukuri Anu
+All workflow execution outputs are stored in the `outputs` folder.
+
+- Workflow execution diagram
+- Gmail output message
+- WhatsApp output message
