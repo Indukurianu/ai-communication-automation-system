@@ -34,3 +34,19 @@ POST `/webhook/ai-communication`
   "message": "Send interview confirmation email",
   "channel": "gmail"
 }
+
+## Tech Stack
+- n8n
+- Google Gemini Chat Model
+- Webhook API
+- Gmail API
+- WhatsApp HTTP Request
+
+#### Features
+- AI-generated structured responses
+- Webhook-based trigger system
+- Conditional routing logic
+- Multi-channel communication (Email + WhatsApp)
+
+## Author
+Indukuri Anu
